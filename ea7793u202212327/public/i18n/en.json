@@ -1,0 +1,37 @@
+{
+  "toolbar": {
+    "home": "TrailQuest Adventure Camps Management Platform",
+    "logo-alt" : "TrailQuest Adventure Camps logo",
+    "toggle-navigation menu": "Toggle navigation menu"
+  },
+  "navigation": { "home" : "Home","new reservation":"New Reservation", "label": "Main navigation",
+    "language": { "selector" : "Language selector", "en":  "English" , "es": "Spanish"},
+    "footer":{"copyright": "© 2026 TrailQuest Adventure Camps."}
+  },
+  "home": {
+    "title": "Home",
+    "subtitle": "Smart Reservations and Capacity Management for Adventure Camps",
+    "my-adventure-camps": "My Adventure Camps",
+    "loading": "Loading adventure camps...",
+    "no-camps": "There are no adventure camps registered."
+  },
+  "vehicle-type-stats": {
+    "daily-revenue-potential": "Daily Revenue Potential",
+    "estimated-incident-cost": "Estimated Incident Cost",
+    "vehicles-rented": "Vehicles Rented"
+  },
+  "incident": {
+    "type": "Type",
+    "vehicle": "Vehicle",
+    "rental": "Rental",
+    "registered-at": "Registered at",
+    "estimated-repair-cost": "Estimated repair cost",
+    "priority": "Priority",
+    "none": "None"
+  },
+  "vehicle-type": {
+    "ECONOMY": "Economy",
+    "SUV": "SUV",
+    "LUXURY": "Luxury"
+  }
+}

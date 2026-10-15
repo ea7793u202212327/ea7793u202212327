@@ -7,9 +7,8 @@ export const environment = {
   */
   // API URL Version to be used until Learning Center Platform is implemented
   platformProviderApiBaseUrl: 'http://localhost:3000',
-  platformProviderCategoriesEndpointPath: '/categories',
-  platformProviderCoursesEndpointPath: '/courses',
-  platformProviderSignInEndpointPath: '/authentication/sign-in',
-  platformProviderSignUpEndpointPath: '/authentication/sign-up',
+  platformProviderAdventureCampsEndpointPath: '/adventure-camps',
+  platformProviderReservationsEndpointPath: '/reservations',
   logoProviderApiBaseUrl: 'https://img.logo.dev.com/'
+
 };
